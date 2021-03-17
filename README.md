@@ -27,4 +27,22 @@ AdKernel ADN | https://tag.adkernel.com/tag | |
 AdLive | https://api.publishers.adlive.io/get?pbjs=1 | |
 Adman | https://pub.admanmedia.com/?c=o&m=multi | https://pub.admanmedia.com/?c=o&m=sync |
 AdMatic | https://ads4.admatic.com.tr/prebid/v3/bidrequest | iframe: https://ads4.admatic.com.tr/prebid/static/usersync/v3/async_usersync.html image: https://ads5.admatic.com.tr/prebid/v3/bidrequest/usersync |
+AdMedia | https://prebid.admedia.com/bidder/ | |
+AdMixer | https://inv-nets.admixer.net/prebid.1.1.aspx | |
+AdNow | https://n.ads3-adnow.com/a | |
+Adnuntius | https://delivery.adnuntius.com/i?tzo=-60&format=json | |
+AdOcean | myao.adocean.pl | |
+Adot | https://dsp.adotmob.com/headerbidding/bidrequest | |
+AdPartner | https://a4p.adpartner.pro/hb/bid/ | |
+AdPone | https://rtb.adpone.com/bid-request | https://eu-ads.adpone.com |
+AdPrime | https://delta.adprime.com/?c=o&m=multi | https://delta.adprime.com/?c=rtb&m=sync |
+AdRelevantis | https://ssp.adrelevantis.com/prebid | |
+
+
+
+
+
+
+
+
 
