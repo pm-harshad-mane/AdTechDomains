@@ -47,7 +47,8 @@ AdVenue | https://ssp.advenuemedia.co.uk/?c=o&m=multi | |
 AdVertly | https://api.advertly.com/www/admin/plugins/Prebid/getAd.php | https://api.advertly.com/www/admin/plugins/Prebid/userSync.php |
 Adxcg | https://hbps.adxcg.net/get/adi | |
 Adyoulike | https://hb-api.omnitagjs.com | |
-
+Aja| https://ad.as.amanad.adtdp.com/v2/prebid | |
+Amx | https://prebid.a-mo.net/a/c | |
 
 
 
