@@ -46,7 +46,7 @@ AdVangelists | https://nep.advangelists.com/xp/get?pubid= | |
 AdVenue | https://ssp.advenuemedia.co.uk/?c=o&m=multi | |
 AdVertly | https://api.advertly.com/www/admin/plugins/Prebid/getAd.php | https://api.advertly.com/www/admin/plugins/Prebid/userSync.php |
 Adxcg | https://hbps.adxcg.net/get/adi | |
-Adsyoulike | https://hb-api.omnitagjs.com | |
+Adyoulike | https://hb-api.omnitagjs.com | |
 
 
 
