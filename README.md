@@ -41,7 +41,12 @@ AdSpend | https://rtb.com.ru/headerbidding-bid | https://rtb.com.ru/headerbiddin
 AdTarget | https://ghb.console.adtarget.com.tr/v2/auction/ | |
 Adtelligent | https://ghb.adtelligent.com | |
 AdTrue | https://hb.adtrue.com/prebid/auction | Iframe: https://hb.adtrue.com/prebid/usersync?t=iframe&p= Image: https://hb.adtrue.com/prebid/usersync?t=img&p= |
-
+AdUpTech | https://rtb.d.adup-tech.com/prebid/ | |
+AdVangelists | https://nep.advangelists.com/xp/get?pubid= | |
+AdVenue | https://ssp.advenuemedia.co.uk/?c=o&m=multi | |
+AdVertly | https://api.advertly.com/www/admin/plugins/Prebid/getAd.php | https://api.advertly.com/www/admin/plugins/Prebid/userSync.php |
+Adxcg | https://hbps.adxcg.net/get/adi | |
+Adsyoulike | https://hb-api.omnitagjs.com | |
 
 
 
