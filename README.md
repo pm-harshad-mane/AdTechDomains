@@ -37,6 +37,10 @@ AdPartner | https://a4p.adpartner.pro/hb/bid/ | |
 AdPone | https://rtb.adpone.com/bid-request | https://eu-ads.adpone.com |
 AdPrime | https://delta.adprime.com/?c=o&m=multi | https://delta.adprime.com/?c=rtb&m=sync |
 AdRelevantis | https://ssp.adrelevantis.com/prebid | |
+AdSpend | https://rtb.com.ru/headerbidding-bid | https://rtb.com.ru/headerbidding-sync? |
+AdTarget | https://ghb.console.adtarget.com.tr/v2/auction/ | |
+Adtelligent | https://ghb.adtelligent.com | |
+AdTrue | https://hb.adtrue.com/prebid/auction | Iframe: https://hb.adtrue.com/prebid/usersync?t=iframe&p= Image: https://hb.adtrue.com/prebid/usersync?t=img&p= |
 
 
 
