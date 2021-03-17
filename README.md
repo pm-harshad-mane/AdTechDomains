@@ -18,4 +18,13 @@ Adagio | https://mp.4dex.io/prebid | |
 AdBlender | https://inv-nets.admixer.net/adblender.1.1.aspx | |
 AdButler | https://servedbyadbutler.com/adserve/ | |
 AdFinity | https://stat.adfinity.pro/?c=o&m=multi | https://stat.adfinity.pro/?c=o&m=cookie |
-AdForm | adx.adform.net | |
+AdForm | https://adx.adform.net/adx/openrtb/ | |
+AdGeneration | Prod: https://d.socdm.com/adsv/v1 Debug: https://api-test.scaleout.jp/adsv/v1 | |
+AdGlare | https://try.engine.adglare.net | |
+AdHash | https://bidder.adhash.org/rtb? | |
+Adhese | https://ads-ACCOUNT.adhese.com/json | https://user-sync.adhese.com/iframe/user_sync.html |
+AdKernel ADN | https://tag.adkernel.com/tag | |
+AdLive | https://api.publishers.adlive.io/get?pbjs=1 | |
+Adman | https://pub.admanmedia.com/?c=o&m=multi | https://pub.admanmedia.com/?c=o&m=sync |
+AdMatic | https://ads4.admatic.com.tr/prebid/v3/bidrequest | iframe: https://ads4.admatic.com.tr/prebid/static/usersync/v3/async_usersync.html image: https://ads5.admatic.com.tr/prebid/v3/bidrequest/usersync |
+
